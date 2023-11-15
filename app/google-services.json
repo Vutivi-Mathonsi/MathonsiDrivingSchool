@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "906286965521",
+    "firebase_url": "https://mathonsi-driving-school-default-rtdb.firebaseio.com",
+    "project_id": "mathonsi-driving-school",
+    "storage_bucket": "mathonsi-driving-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906286965521:android:4e52531e20e0fed543a2b0",
+        "android_client_info": {
+          "package_name": "com.example.mathonsidrivingschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906286965521-mfqrqdusngglv6qg94r1lb7aft4hjbg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsD-DpuxevVE_x_2ZGshOlQi1S2bpsXcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906286965521-mfqrqdusngglv6qg94r1lb7aft4hjbg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906286965521:android:4d46a6eb519cd53c43a2b0",
+        "android_client_info": {
+          "package_name": "com.example.mathonsidrivingschooldemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906286965521-mfqrqdusngglv6qg94r1lb7aft4hjbg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsD-DpuxevVE_x_2ZGshOlQi1S2bpsXcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906286965521-mfqrqdusngglv6qg94r1lb7aft4hjbg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906286965521:android:18c645678f20af4143a2b0",
+        "android_client_info": {
+          "package_name": "com.example.mathonsidrivingschoolprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906286965521-mfqrqdusngglv6qg94r1lb7aft4hjbg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsD-DpuxevVE_x_2ZGshOlQi1S2bpsXcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906286965521-mfqrqdusngglv6qg94r1lb7aft4hjbg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
